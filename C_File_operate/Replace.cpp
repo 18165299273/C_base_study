@@ -7,7 +7,7 @@ TestProg test;
  void main()
 {
 
-	/* char filename_one[] = "单字符测试.txt";
+	 char filename_one[] = "单字符测试.txt";
 	 FileControl file_one(filename_one);
 	 file_one.InputMessage();
 	 file_one.ReadMessage();
@@ -26,7 +26,7 @@ TestProg test;
 	 char filename_three[] = "格式化字符测试.txt";
 	 FileControl file_three(filename_three);
 	file_three.InputFormat();
-	 file_three.ReadSFormat();*/
+	 file_three.ReadSFormat();
 	
 
 	 system("pause");
