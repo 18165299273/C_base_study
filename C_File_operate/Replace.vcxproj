@@ -151,11 +151,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dog.cpp" />
     <ClCompile Include="FileControl.cpp" />
     <ClCompile Include="Replace.cpp" />
     <ClCompile Include="TestProg.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Dog.h" />
     <ClInclude Include="FileControl.h" />
     <ClInclude Include="TestProg.h" />
   </ItemGroup>
