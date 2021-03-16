@@ -28,7 +28,7 @@ TestProg test;
 	file_three.InputFormat();
 	 file_three.ReadSFormat();
 	
-	 printf("谁看代码谁小狗！！！");
+
 	 system("pause");
 
 
